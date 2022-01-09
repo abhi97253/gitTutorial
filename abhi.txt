@@ -1,3 +1,0 @@
-this is my first version of project
-this is my second commit.
-this file is change by me again.
